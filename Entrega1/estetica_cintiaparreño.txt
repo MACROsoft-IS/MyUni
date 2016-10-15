@@ -1,0 +1,5 @@
+- MyUni es un proyecto que intenta facilitar el desarrollo de amistades y relaciones entre las personas.
+- La interfaz de esta aplicación, tendrá als siguientes características:
+	- SIMPLICIDAD: será clara, sencilla y concisa. Habrá un pequeño tutorial para que los usuarios aprendan qué pueden hacer y cómo funciona la aplicación.
+	- INTUITIVA: será fácil de usar, todo muy visual y claro.
+	- EFICIENTE: el diseño favorecerá la mayor productividad de la aplicación.

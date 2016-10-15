@@ -1,0 +1,11 @@
+--> "MyUni" es una red social universitaria exclusiva de la UCM donde la gente pueda hablar con aquellas personas que le resulten interesantes, basándose en los gustos personales de cada usuario.
+
+--> Actualizable.
+
+--> Con actualizable se quiere decir que la aplicación favorece crear nuevas actualizaciones para introducir nuevo contenido o corregir errores. Esto se lleva a cabo mediante una correcta documentación del proyecto, así como la creación de una base correctamente programada que permita la ampliación de la aplicación en el futuro con facilidad.
+
+--> Este requisito es altamente viable, ya que sin él la aplicación podría quedar estancada en un punto en el que no ofreciese novedades y los usuarios dejasen de usarla o se pasasen a otras parecidas.
+
+--> Afecta a todo el equipo de desarrollo y es de vital importancia tanto para el cliente (aplicación que no se quede obsoleta y desfasada) como para los desarrolladores, ya que facilita el trabajo futuro y evita la fuga de usuarios.
+
+--> Se puede comprobar que el requisito es probado correctamente introduciendo nuevas funciones o corrigiendo  errores. Si es correcto, las actualizaciones no deberían ser tan difíciles de hacer para los desarrolladores y contendrían menos errores que de cualquier otra forma.

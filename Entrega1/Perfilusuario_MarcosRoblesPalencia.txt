@@ -1,0 +1,11 @@
+Proyecto: El Proyecto MyUni es una red social para alumnos de la UCM que tiene como fin poder conocer y entablar amistad con otros compañeros, en base a los gustos personales.
+
+Nombre del requisito: Perfil de usuario.
+ 
+Descripción: En este requsito el usuario tendrá que introducir en un formulario los datos que el programa le pida. Estos datos serán de dos tipos: unos personales (nombre, edad, estudios, sexo, orientación sexual, etc) para crear el perfil y otros datos para conocer los gustos y aficiones y poder localizar, más eficientemente, a tus posibles nuevas amistades.
+
+Viabilidad: Este requisito es altamente viable, porque sin él, no podría la aplicación realizar el fin a la que está destinada.
+
+Relevancia: Este requisito es indispensable, tanto para el cliente como para el equipo de desarrollo, ya que es una de las bases del programa.
+
+Pruebas: Si los datos son introducidos correctamente en el formulario, y con la mayor precisión, la posibilidad de encontrar amistades que concuerden con tus gustos aumentará. La prueba se podrá realizar introduciendo varios perfiles y que el programa compruebe la compatibilidad de amistad entre ellos.

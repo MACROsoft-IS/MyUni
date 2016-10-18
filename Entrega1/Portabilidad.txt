@@ -1,7 +1,13 @@
-+ MyUni es una aplicaciÛn que brinda la oportunidad a sus usuarios de establecer contacto y conocerse en base a los gustos de cada uno.
-+ PORTABILIDAD
-+ Hoy en dÌa el acceso a internet se realiza desde multitud de dispositivos, es importante que desde la mayorÌa de ellos la aplicaciÛn se pueda utilizar. 
-+ Desde un principio, el desarrollo est· enfocado en los dispositivos m·s utilizados en el ·mbito de nuestra aplicaciÛn.
-+ Nuestros usuarios potenciales tienen mucha facilidad para acceder a internet y lo hacen desde multitud de dispositivos , es importante que MyUni sea una aplicaciÛn multiplataforma.
-+ Cuando un usuario se pueda conectar a MyUni desde la mayorÌa de los aparatos conectados a internet, habremos alcanzado el objetivo
+MYUNI
+MyUni es una aplicaci√≥n que brinda la oportunidad a sus usuarios de establecer contacto y conocerse en base a los gustos de cada uno.
+
+PORTABILIDAD
+
+Descripcion: Hoy en d√≠a el acceso a internet se realiza desde multitud de dispositivos, es importante que desde la mayor√≠a de ellos la aplicaci√≥n se pueda utilizar. 
+
+Viabilidad: Desde un principio, el desarrollo est√° enfocado en los dispositivos m√°s utilizados en el √°mbito de nuestra aplicaci√≥n.
+
+Relevancia: Nuestros usuarios potenciales tienen mucha facilidad para acceder a internet y lo hacen desde multitud de dispositivos , es importante que MyUni sea una aplicaci√≥n multiplataforma.
+
+Pruebas: Cuando un usuario se pueda conectar a MyUni desde la mayor√≠a de los aparatos conectados a internet, habremos alcanzado el objetivo
 

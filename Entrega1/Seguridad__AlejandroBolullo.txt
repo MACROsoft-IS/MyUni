@@ -1,10 +1,15 @@
-MyUni es una aplicacion en red que trata con los datos de los usuarios, datos tales como la localizacion, la direccion  de correo y los datos personales que ellos incluyan. 
+Proyecto: MyUni es una aplicacion en red que trata con los datos de los usuarios, datos tales como la localizacion, la direccion  de correo y los datos personales que ellos incluyan. 
 
-Esto supone que se debe hacer incapié desde la fase de diseño en el uso de  practicas seguras tanto en la programacion como en la logica del programa.
+Titulo del requisito: seguridad.
 
-Y durante la fase de testeo deberia de realizarse una auditoria de seguridad sobre las interfaces y los servicios que se vayan a utilizar.
+Descripcion: Se debe hacer incapié desde la fase de diseño en el uso de  practicas seguras tanto en la programacion como en la logica del programa.
 
-Sabiendo que es casi imposible (si no imposible del todo) crear una aplicacion totalmente segura se evitarán las vulnerabilidades ya conocidas y se desarrollará con la intencion de evitar la aparicion de nuevas vias de ataque.
+Viabilidad: Sabiendo que es casi imposible (si no imposible del todo) crear una aplicacion totalmente segura se evitarán las vulnerabilidades ya conocidas y se desarrollará con la intencion de evitar la aparicion de nuevas vias de ataque.
+
+Relevancia: Los datos de los usuarios deben de ser protegidos por el bien tanto de los usuarios como de la propia empresa.
+
+Pruebas: Durante la fase de testeo deberia de realizarse una auditoria de seguridad sobre las interfaces y los servicios que se vayan a utilizar.
+
 
 Alejandro Bolullo Pérez
 

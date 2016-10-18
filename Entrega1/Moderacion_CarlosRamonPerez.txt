@@ -1,22 +1,18 @@
-Proyecto MyUni:
-Es un red social asociada a la UCM Net (se accede mediante el correo UCM) que sirve para conocer gente y lo que surja. Consiste en una aplicacion en la que ves fotos
-de alguien y tu puedes decidir si te gusta o no; si votas que no, no volveras a ver a dicha persona, en cambio si votas si, podras iniciar una conversacion con ella.
+MyUni:
+Es un red social asociada a la UCM Net que sirve para conocer gente y lo que surja. Consiste en una aplicacion en la que ves fotos
+de alguien y tu puedes decidir si te gusta o no.
 
-Requisito: Moderacion.
+Moderacion.
 
-El requisito consiste en que la aplicacion debe de estar controlada por administradores para actuar en caso de acoso, odio o cualquier tipo de comportamientos que perjudiquen a otras personas.
+La aplicacion debe de estar controlada por administradores para actuar en caso de acoso, odio o cualquier tipo de comportamientos que perjudiquen a otras personas.
 Todo esto incluye: subir fotos obscenas o grotescas que no tengan nada que ver con el uso normal de la aplicacion. Bullying y acoso, es decir, insultos, amenazas, etc.
-¿Como se detecta? La aplicacion tiene un boton de reporte en los perfiles de los usuarios, en los que puedes denunciar malas conductas. Este boton hace que llegue un informe
-a la moderacion de la aplicacion, que tomará medidas. Tambien existe el boton de bloqueo en caso de no querer saber nunca nada mas de una persona.
+La aplicacion tiene un boton de reporte en los perfiles de los usuarios, en los que puedes denunciar malas conductas. Este boton hace que llegue un informe a la moderacion, que tomarÃ¡ medidas. Tambien existe el boton de bloqueo en caso de no querer saber nada de una persona.
 
-Viabilidad:
 
-El requisito es viable, ya que toda aplicacion necesita un control de las normas. Una especie de ''policia'' que regula que los usuarios no perjudiquen a otros usuarios o a la integridad de la aplicacion. En teoria no deberia de haber muchos reportes, asi que con una persona o dos que controlen este apartado valdría.
+Es viable, ya que toda aplicacion necesita un control de las normas. Una especie de ''policia'' que regula que los usuarios no perjudiquen a otros usuarios o a la integridad de la aplicacion. No deberia de haber muchos reportes, asi que con dos personas que controlen este apartado valdrÃ­a.
 
-Relevancia:
 
-El requisito es relevante, ya que al cliente le interesa que su aplicacion sea un entorno amable y sin hostilidad. Tambien ayuda a que los usuarios se sientan seguros y sin miedo de usar la aplicacion.
+Es relevante, ya que al cliente le interesa que su aplicacion sea un entorno amable y sin hostilidad. Tambien ayuda a que los usuarios se sientan seguros y sin miedo de usar la aplicacion.
 
-Pruebas:
 
 Para probar que este requisito funciona, simplemente tienes que informar de algun usuario de prueba, y ver que el informe llega a los moderadores, y que estos castiguen a los usuarios.                  

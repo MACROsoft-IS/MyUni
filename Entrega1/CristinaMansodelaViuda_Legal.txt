@@ -1,11 +1,12 @@
--ìMyUniî se trata de una red social para entablar amistades nuevas utilizando la cuenta de correo de UCM.
-
--Una red social legal
-
--Al cliente le preocupa que se hace con los datos de todos los socios subscritos en  la aplicaciÛn, es decir, si los datos se trasferir·n a otras compaÒÌas con fin de lucro, o si se tratar·n de manera ilegal, es decir, hacer un uso indebido de ellos. Para evitarlo, se estima que los datos estar·n protegidos por la ìLey Org·nica 15/1999, de 13 de diciembre, de ProtecciÛn de Datos de Car·cter Personalî(LOPD), vigente actualmente.
-
--La LOPD pretende garantizar y proteger la informaciÛn personal para no sufrir robos de identidad o para proteger los datos importantes de una empresa. Por lo tanto, al cumplir con esta ley,  aporta fidelidad y confianza  a los clientes, ya que nadie suele confiar sus datos personales si no se sabe que se va hacer con ellos.
-
--La ley debe ser cumplida por toda persona que posee datos de car·cter personal, es decir, nuestra empresa se compromete a cumplir la ley. En caso de no cumplirlo, la ley recoge infracciones clasificadas en leves, graves o muy graves y cada infracciÛn tendr· sus correspondientes sanciones. En resumen, los datos personales del cliente estar·n protegidos.
-
--Existe clausulas modelos de informaciÛn  avaladas por la LOPD que acreditan que se cumple la ley.
+-	Proyecto:
+ ‚ÄúMyUni‚Äù se trata de una red social para entablar amistades nuevas utilizando la cuenta de correo de UCM.
+-	T√≠tulo del requisito: 
+Una red social legal
+-	Descripci√≥n del requisito:
+Al cliente le preocupa que se hace con los datos de todos los socios subscritos en  la aplicaci√≥n, es decir, si los datos se trasferir√°n a otras compa√±√≠as con fin de lucro, o si se tratar√°n de manera ilegal, es decir, hacer un uso indebido de ellos. Para evitarlo, se estima que los datos estar√°n protegidos seg√∫n la ‚ÄúLey Org√°nica 15/1999, de 13 de diciembre, de Protecci√≥n de Datos de Car√°cter Personal‚Äù (LOPD), vigente actualmente.
+-	Viabilidad:
+Se elaborar√° un plan de seguridad que adopte medidas que garanticen la protecci√≥n de los datos de car√°cter personal. El plan contemplar√° que los ficheros que se guarda la informaci√≥n s√≥lo podr√° acceder personal autorizado. 
+-	Relevancia:
+Afecta al equipo, ya que tenemos que encargarnos de que se siga en plan se seguridad establecido y los controles peri√≥dicos. Haciendo esto, se aportar√°  fidelidad y confianza  a los clientes, ya que nadie suele confiar sus datos personales si no se sabe que se va hacer con ellos.
+-	Pruebas:
+Se realizar√° una serie de controles peri√≥dicos (cada 3-4 meses) para certificar que se que se cumple el plan. Tambi√©n existe clausulas modelos de informaci√≥n  avaladas por la LOPD que acreditan que se cumple el tratamiento de datos en la aplicaci√≥n.

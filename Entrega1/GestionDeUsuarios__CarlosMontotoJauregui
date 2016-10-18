@@ -1,0 +1,11 @@
+Proyecto: El objetivo de MyUni es permitir y facilitar la relación entre alumnos de la UCM.
+
+Título del requisito: Gestión de usuarios.
+
+Descripción del requisito: Gestiona el proceso y datos de registro o creación de nuevas cuentas y el bloqueo temporal o permante de estas, es decir, el que un futuro usuario pueda crear su cuenta y el que un moderador o administrador pueda bloquearla.
+
+Viabilidad: Para que la gente pueda interactuar entre ellos y conocerse deben estar registrados, es decir, que no accedan a la aplicación sin usuario, y para ello hace falta que se puedan crear cuentas. El proceso de bloquear cuentas también es viable, pues permite expulsar usuarios tóxicos o problematicos para los propios usuarios o para la aplicación.
+
+Relevancia: Es fundamental la administración de usuarios dados de alta y de baja para el objetivo de la aplicación, dado que la comunicación solo puede intercambiarse entre usuarios registrados, pudiendo así guardar sus datos y preferencias. Sin el proceso de creación no hay cuentas, sin cuentas no hay usuarios y sin usuarios no hay red social.
+
+Pruebas: Se realizan registros de nuevos usuarios y se comprueba que la cuenta se ha creado correctamente, conservando los datos y guardandolos donde corresponde, a su vez, para las bajas, se bloquean temporalmente o de forma permanente varias cuentas. Si se puede acceder a las cuentas creadas y no a las bloqueadas podemos determinar que el funcionamiento es correcto.

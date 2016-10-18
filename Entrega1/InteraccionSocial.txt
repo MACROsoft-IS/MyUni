@@ -1,0 +1,6 @@
+ MyUni es un proyecto que apuesta por las relaciones entre los distintos y múltiples tipos de alumnos de la UCM* para hacer nuevas amistades, y lo que surja…
+    INTERACCIÓN SOCIAL
+ Este es uno de los aspectos más importantes del proyecto, ¿cómo podríamos conocer a alguien mediante una red social si no podemos comunicarnos con esa persona? 
+ Por eso en MacroSoft hemos pensado en hacer un sistema de chats privados entre los usuarios para que así puedan coger confianza, cosa que por lo general nos cuesta hacerlo en grupos de más personas, opción que también se incluye en nuestro desarrollo.
+ Como ya se ha mencionado anteriormente, MyUni se ha pensado para unir a la gente que comparte universidad, y para ello hemos de tener en cuenta que los usuarios se puedan relacionar y compartir sus experiencias por lo que es algo que van a tener que usar muy a menudo y por el cual se guía el proyecto.
+ 

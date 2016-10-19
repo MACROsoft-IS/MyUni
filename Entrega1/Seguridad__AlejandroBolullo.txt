@@ -2,13 +2,13 @@ Proyecto: MyUni es una aplicacion en red que trata con los datos de los usuarios
 
 Titulo del requisito: seguridad.
 
-Descripcion: Se debe hacer incapié desde la fase de diseño en el uso de  practicas seguras tanto en la programacion como en la logica del programa.
+Descripcion: Se debe hacer incapié desde la fase de diseño en la seguridad tanto en la programacion como en la logica del programa.
 
-Viabilidad: Sabiendo que es casi imposible (si no imposible del todo) crear una aplicacion totalmente segura se evitarán las vulnerabilidades ya conocidas y se desarrollará siguiendo metodos de programacion segura, evitando el uso de funciones vulnerables y la mala gestion de los datos suministrados por los usuarios.
+Viabilidad: Se evitarán las vulnerabilidades ya conocidas de problemas de gestion de memoria (tipo buffer overflow) y se desarrollará de forma segura segura sanitizando los datos que proporcione el usuario (para evitar inyecciones de código).
 
-Relevancia: Los datos de los usuarios deben de ser protegidos por el bien tanto de los usuarios como de la propia empresa, al tener que cumplir con lo establecido en la LOPD (Ley Organica de Proteccion de Datos).
+Relevancia: Los datos de los usuarios deben de ser protegidos por lo establecido en la LOPD (Ley Organica de Proteccion de Datos).
 
-Pruebas: Durante la fase de testeo deberia de realizarse una auditoria de seguridad sobre las interfaces y los servicios que se vayan a utilizar mediante el uso de herramientas automatizadas como burp suite, sqlmap y nessus, ya que un pentesting mas a fondo encareceria demasiado el desarrollo.
+Pruebas: Durante la fase de testeo deberia de realizarse escaneos sobre las interfaces y los servicios que se vayan a utilizar mediante el uso de herramientas automatizadas como burp suite, sqlmap y nessus, ya que un pentesting mas a fondo encareceria demasiado el desarrollo.
 
 
 

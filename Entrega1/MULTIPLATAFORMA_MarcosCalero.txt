@@ -1,0 +1,13 @@
+MYUNI
+
+MyUni es una aplicación que brinda la oportunidad a sus usuarios de establecer contacto y conocerse en base a los gustos de cada uno.
+
+MULTIPLATAFORMA
+
+Descripción: Hoy en día el acceso a Internet se realiza desde multitud de dispositivos, cada uno con su sistema operativo. MyUni esta enfocada a dispositivos portátiles: smartphone y tablet. El sistema operativo de una gran mayoría de estos es Android. MyUni sera desarrollada para Android KitKat, Lollipop, Marhsmallow y Nougat abarcando una buena cantidad de usuarios potenciales.
+
+Viabilidad: Dominamos el lenguaje de programación Java, el lenguajes de programación de aplicaciones para Android es Java, por lo tanto el proyecto es viable.
+
+Relevancia: Si centráramos MyUni en una sola plataforma, perderíamos gran parte de nuestros usuarios potenciales. Para abarcarlos a todos, MyUni debe ser una aplicación multiplataforma. Nuestra aplicación se ejecutara en Android KitKat, Lollipop, Marshmallow y Nougat.
+
+Pruebas: Comprobando la total funcionalidad de MyUni en Android Kitkat, Lollipop, MarshmalloW y Nougat, y que hemos alcanzado todoS los requisitos alcanzados, habremos logrado el objetivo.
